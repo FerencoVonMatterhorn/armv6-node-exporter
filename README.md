@@ -1,7 +1,7 @@
 <div align="center">
     <p align="center">
         <a href="https://github.com/ferenconvonmatterhorn/armv6-node-exporter">
-            <img src="images/rpi1.jpg" alt="Logo" width=400 height=400>
+            <img src="images/rpi1.jpg" alt="Logo">
         </a>
 
 <h3 align="center">ARMv6 Prometheus Node Exporter for RPI1</h3>
