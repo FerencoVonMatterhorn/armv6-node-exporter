@@ -12,7 +12,7 @@
 Grafana Dashboard with metrics from the RPI1
 <div align="center">
     <p align="center">
-            <img src="images/grafana-example.png" alt="Logo" width=400 height=400>
+            <img src="images/grafana-example.png" alt="Logo">
 <h3 align="center">ARMv6 Prometheus Node Exporter for RPI1</h3>
 </div>
 
